@@ -1,0 +1,4 @@
+access Google API 4 reports:
+  title: 'Access Google API 4 reports.'
+  description: 'Access pages containing reports'
+  restrict access: true
