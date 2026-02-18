@@ -1,7 +1,7 @@
 {
   "name": "origindesign/ga4_reporting",
   "description": "Drupal 9/10 module to connect to Google Analytics Data API",
-  "type": "drupal-module",
+  "type": "drupal-custom-module",
   "license": "MIT",
   "authors": [
     {
